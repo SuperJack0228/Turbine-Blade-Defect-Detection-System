@@ -61,4 +61,4 @@ git clone https://github.com/YourUsername/Blade-Vision-Inspector.git
 * 安装依赖
 pip install -r requirements.txt
 * 启动 GUI 平台
-ython main.py
+python main.py
