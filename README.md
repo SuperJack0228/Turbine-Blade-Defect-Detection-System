@@ -48,14 +48,14 @@
 ---
 ## 🚀 快速开始 (Getting Started)
 **环境要求**
-Python 3.9+
-PyTorch 2.0 (with MPS or CUDA support)
-OpenCV-Python
-PyQt5
+* Python 3.9+
+* PyTorch 2.0 (with MPS or CUDA support)
+* OpenCV-Python
+* PyQt5
 **安装部署**
-# 克隆仓库
-git clone https://github.com/YourUsername/Blade-Vision-Inspector.git
-# 安装依赖
-pip install -r requirements.txt
-# 启动 GUI 平台
-python main.py
+克隆仓库
+* git clone https://github.com/YourUsername/Blade-Vision-Inspector.git
+* 安装依赖
+* pip install -r requirements.txt
+* 启动 GUI 平台
+* python main.py
