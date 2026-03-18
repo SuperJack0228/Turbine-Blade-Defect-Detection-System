@@ -52,8 +52,10 @@
 * PyTorch 2.0 (with MPS or CUDA support)
 * OpenCV-Python
 * PyQt5
+  
+---
 
-**安装部署**
+## 安装部署
 * 克隆仓库
 git clone https://github.com/YourUsername/Blade-Vision-Inspector.git
 * 安装依赖
