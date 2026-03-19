@@ -1,0 +1,7 @@
+# configs/defects.yaml
+path: /Users/superjack/test/turbo_detector/yolov8/data
+train: images/train
+val:   images/val
+
+nc: 4
+names: ['表面划伤','表面磕伤','表面污渍','表面压痕']

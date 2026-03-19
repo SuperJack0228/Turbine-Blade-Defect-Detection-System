@@ -1,0 +1,3 @@
+([('ui_main',
+   '/Users/superjack/test/turbo_detector/py_app/dist/ui_main',
+   'EXECUTABLE')],)
