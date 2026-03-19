@@ -1,0 +1,22 @@
+# 核心深度学习框架 (支持 macOS M1/M2 MPS 加速)
+torch>=2.0.1
+torchvision>=0.15.2
+
+# 目标检测算法 (YOLOv8)
+ultralytics
+
+# 图形用户界面 (GUI)
+PyQt5
+
+# 图像处理与科学计算
+opencv-python
+numpy
+Pillow
+
+# 实验结果可视化
+matplotlib
+pandas
+
+# 后端支持 (如论文中提到的 FastAPI 接口)
+fastapi
+uvicorn
